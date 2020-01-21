@@ -20,6 +20,12 @@ cd HPCnet
 python setup.py install
 ```
 
+Install dependencies
+
+```shell
+pip install -r requirements.txt
+```
+
 ## Examples
 semantic3D
 

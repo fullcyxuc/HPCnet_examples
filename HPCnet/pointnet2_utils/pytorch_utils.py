@@ -13,7 +13,7 @@ class SharedMLP(nn.Sequential):
             preact: bool = False,
             first: bool = False,
             name: str = "",
-            instance_norm: bool = False,
+            instance_norm: bool = False
     ):
         super().__init__()
 
